@@ -1,6 +1,6 @@
 
 
-#Point of Sale System with Maven (Layered Architecture)
+# Point of Sale System with Maven (Layered Architecture)
 
 Getting Started
 
