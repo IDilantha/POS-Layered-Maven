@@ -1,6 +1,6 @@
-Project Title
 
-Point of Sale System with Maven
+
+#Point of Sale System with Maven (Layered Architecture)
 
 Getting Started
 
@@ -16,10 +16,7 @@ Requirement
 
 java 1.8 or higher version jfoenix jasperreports
 
-Author
-
+Author -
 Isuru Dilantha Matharaarachchi
 
-License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+Project Licenced with MIT Licence - [LICENCE](LICENCE)
